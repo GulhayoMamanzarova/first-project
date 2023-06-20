@@ -19,6 +19,9 @@ a {
     text-decoration: none;
 }
 
+a:hover{
+    opacity: 0.7;
+}
 ul {
     list-style: none;
 }
